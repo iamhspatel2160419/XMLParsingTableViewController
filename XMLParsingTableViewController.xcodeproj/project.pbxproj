@@ -7,20 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		E0A4B034203465BC00BCAB47 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A4B033203465BC00BCAB47 /* AppDelegate.swift */; };
-		E0A4B036203465BC00BCAB47 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A4B035203465BC00BCAB47 /* ViewController.swift */; };
+		E082EB5A20349B8300F92019 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E082EB5920349B8300F92019 /* AppDelegate.swift */; };
 		E0A4B039203465BC00BCAB47 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B037203465BC00BCAB47 /* Main.storyboard */; };
 		E0A4B03B203465BC00BCAB47 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B03A203465BC00BCAB47 /* Assets.xcassets */; };
 		E0A4B03E203465BC00BCAB47 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B03C203465BC00BCAB47 /* LaunchScreen.storyboard */; };
 		E0A4B0462034660100BCAB47 /* XMLParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A4B0452034660100BCAB47 /* XMLParser.swift */; };
 		E0A4B048203471E800BCAB47 /* NewsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A4B047203471E800BCAB47 /* NewsTableViewController.swift */; };
 		E0A4B04A2034741900BCAB47 /* NEWSTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0A4B0492034741900BCAB47 /* NEWSTableViewCell.swift */; };
+		E0A4B04C2034991300BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.11.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B04B2034991100BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.11.png */; };
+		E0A4B0502034991F00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.59.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B04D2034991D00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.59.png */; };
+		E0A4B0512034991F00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.18.08.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B04E2034991E00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.18.08.png */; };
+		E0A4B0522034991F00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.35.png in Resources */ = {isa = PBXBuildFile; fileRef = E0A4B04F2034991E00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.35.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E082EB5920349B8300F92019 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = ../../../whether_JSON_Rest_Api/whether_JSON_Rest_Api/AppDelegate.swift; sourceTree = "<group>"; };
 		E0A4B030203465BC00BCAB47 /* XMLParsingTableViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XMLParsingTableViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E0A4B033203465BC00BCAB47 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		E0A4B035203465BC00BCAB47 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E0A4B038203465BC00BCAB47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E0A4B03A203465BC00BCAB47 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E0A4B03D203465BC00BCAB47 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -28,6 +30,10 @@
 		E0A4B0452034660100BCAB47 /* XMLParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLParser.swift; sourceTree = "<group>"; };
 		E0A4B047203471E800BCAB47 /* NewsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewsTableViewController.swift; sourceTree = "<group>"; };
 		E0A4B0492034741900BCAB47 /* NEWSTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NEWSTableViewCell.swift; sourceTree = "<group>"; };
+		E0A4B04B2034991100BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.11.png"; sourceTree = "<group>"; };
+		E0A4B04D2034991D00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.59.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.59.png"; sourceTree = "<group>"; };
+		E0A4B04E2034991E00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.18.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.18.08.png"; sourceTree = "<group>"; };
+		E0A4B04F2034991E00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.35.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.35.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,17 +66,60 @@
 		E0A4B032203465BC00BCAB47 /* XMLParsingTableViewController */ = {
 			isa = PBXGroup;
 			children = (
-				E0A4B033203465BC00BCAB47 /* AppDelegate.swift */,
-				E0A4B035203465BC00BCAB47 /* ViewController.swift */,
-				E0A4B037203465BC00BCAB47 /* Main.storyboard */,
-				E0A4B03A203465BC00BCAB47 /* Assets.xcassets */,
-				E0A4B03C203465BC00BCAB47 /* LaunchScreen.storyboard */,
+				E0A4B0532034994100BCAB47 /* ScreenShots */,
+				E0A4B057203499D300BCAB47 /* OtherStuffs */,
 				E0A4B03F203465BC00BCAB47 /* Info.plist */,
-				E0A4B0452034660100BCAB47 /* XMLParser.swift */,
-				E0A4B047203471E800BCAB47 /* NewsTableViewController.swift */,
-				E0A4B0492034741900BCAB47 /* NEWSTableViewCell.swift */,
+				E0A4B0542034995B00BCAB47 /* Model */,
+				E0A4B0562034999F00BCAB47 /* Controller */,
+				E0A4B0552034998D00BCAB47 /* Views */,
 			);
 			path = XMLParsingTableViewController;
+			sourceTree = "<group>";
+		};
+		E0A4B0532034994100BCAB47 /* ScreenShots */ = {
+			isa = PBXGroup;
+			children = (
+				E0A4B04F2034991E00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.35.png */,
+				E0A4B04D2034991D00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.59.png */,
+				E0A4B04E2034991E00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.18.08.png */,
+				E0A4B04B2034991100BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.11.png */,
+			);
+			path = ScreenShots;
+			sourceTree = "<group>";
+		};
+		E0A4B0542034995B00BCAB47 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				E0A4B0452034660100BCAB47 /* XMLParser.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E0A4B0552034998D00BCAB47 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				E0A4B037203465BC00BCAB47 /* Main.storyboard */,
+				E0A4B0492034741900BCAB47 /* NEWSTableViewCell.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		E0A4B0562034999F00BCAB47 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E0A4B047203471E800BCAB47 /* NewsTableViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E0A4B057203499D300BCAB47 /* OtherStuffs */ = {
+			isa = PBXGroup;
+			children = (
+				E082EB5920349B8300F92019 /* AppDelegate.swift */,
+				E0A4B03A203465BC00BCAB47 /* Assets.xcassets */,
+				E0A4B03C203465BC00BCAB47 /* LaunchScreen.storyboard */,
+			);
+			path = OtherStuffs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -132,8 +181,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E0A4B04C2034991300BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.11.png in Resources */,
+				E0A4B0512034991F00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.18.08.png in Resources */,
+				E0A4B0522034991F00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.35.png in Resources */,
 				E0A4B03E203465BC00BCAB47 /* LaunchScreen.storyboard in Resources */,
 				E0A4B03B203465BC00BCAB47 /* Assets.xcassets in Resources */,
+				E0A4B0502034991F00BCAB47 /* Simulator Screen Shot - iPhone 6 - 2018-02-14 at 08.17.59.png in Resources */,
 				E0A4B039203465BC00BCAB47 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -147,8 +200,7 @@
 			files = (
 				E0A4B048203471E800BCAB47 /* NewsTableViewController.swift in Sources */,
 				E0A4B04A2034741900BCAB47 /* NEWSTableViewCell.swift in Sources */,
-				E0A4B036203465BC00BCAB47 /* ViewController.swift in Sources */,
-				E0A4B034203465BC00BCAB47 /* AppDelegate.swift in Sources */,
+				E082EB5A20349B8300F92019 /* AppDelegate.swift in Sources */,
 				E0A4B0462034660100BCAB47 /* XMLParser.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -170,6 +222,7 @@
 				E0A4B03D203465BC00BCAB47 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
+			path = ..;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
